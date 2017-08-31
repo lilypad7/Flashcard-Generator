@@ -1,0 +1,14 @@
+[
+  {
+    "type": "starter file"
+  }, 
+{"type":"qa","front":"Who was the first president of the United States?","back":"George Washington"}, 
+{"type":"qa","front":"Who was the only President to serve more than two terms?","back":"Franklin D. Roosevelt"}, 
+{"type":"qa","front":"Who was the only President to serve two non-consecutive terms?","back":"Grover Cleveland"}, 
+{"type":"cloze","front":"Abraham Lincoln was born in a log cabin in ___________________.","back":"Abraham Lincoln was born in a log cabin in Kentucky.","blank":"Kentucky"}, 
+{"type":"cloze","front":"U.S. President _____________ signed the historic Civil Rights Act of 1964.","back":"U.S. President Lyndon B. Johnson signed the historic Civil Rights Act of 1964.","blank":" Lyndon B. Johnson"}, 
+{"type":"qa","front":"Who was the first President to live in the White House?","back":"John Adams"}, 
+{"type":"cloze","front":"Only four months into his administration, President James _________ is shot as he walks through a railroad waiting room in Washington, D.C.","back":"nly four months into his administration, President James _________ is shot as he walks through a railroad waiting room in Washington, D.C.","blank":"Garfield"}, 
+{"type":"qa","front":"Who was the first President born outside the contiguous United States?","back":"Barack Obama"}, 
+{"type":"cloze","front":"The Emancipation Proclamation, was a presidential proclamation and executive order issued by President ____________ on January 1, 1863.","back":"The Emancipation Proclamation, was a presidential proclamation and executive order issued by President ____________ on January 1, 1863.","blank":"Abraham Lincoln"}
+]
